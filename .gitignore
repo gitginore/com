@@ -1,2 +1,4 @@
 .env
 sal_read_here.txt
+node_modules
+.gitignore
